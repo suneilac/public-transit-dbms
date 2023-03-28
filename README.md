@@ -8,20 +8,6 @@ Python scripts (.py), and Bottle HTML templates (.tpl). Please use the files in 
 p8 directory to set up the database and not the ones originally submitted in the
 p3 directory. 
 
-p8
-├── README.txt
-├── create_db.sql
-├── drop_tables.sql
-├── final.py
-├── populate_db.sql
-└── views
-    ├── add_schedule.tpl
-    ├── main.tpl
-    ├── schedule_info.tpl
-    ├── station_info.tpl
-    ├── train_schedule.tpl
-    └── update_station_info.tpl
-
 
 ## SET UP DATABASE
 
