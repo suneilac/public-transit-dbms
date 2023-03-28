@@ -61,7 +61,7 @@ http://localhost:8080/train-schedule
 
 Return to home -> http://localhost:8080/
 
-Add Schedule: http://localhost:8080/train-schedule/add-schedule
+Add Schedule: http://localhost:8080/train-schedule/add-schedulegit 
 * Select a train, station, and input a time (in the format HH:MM) to add this schedule to the database
 
 Search:
@@ -90,4 +90,3 @@ Current trains running at the station
 Update Station Info: http://localhost:8080/update-station-info/<station_id>
 * Edit the walking distance between any station and any bus stop
 * This updates the information given in the "View Station Info" part of the table
-
