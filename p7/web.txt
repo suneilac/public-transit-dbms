@@ -1,0 +1,15 @@
+
+Requirements:
+Python 3.6 or above
+bottle
+
+Instructions for running:
+
+In terminal run:
+
+  $ python3 suneila.py 
+
+This should open http://localhost:8080/ automatically. If it doesn't do that, then go to the previously mentioned URL.
+
+One of the functionalities implemented was a user page. For example, going to http://localhost:8080/user/suneil should
+display a different result from http://localhost:8080/user/<your_name>

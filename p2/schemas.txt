@@ -1,0 +1,24 @@
+
+Suneil Acharya
+
+		Final Project - P2 Schemas
+
+Following the ER diagram, the following schemas would be implemented into the project:
+
+1) start(station_id, stop_id, walking_dist)
+2) dest(station_id, stop_id, walking_dist)
+
+# Train stations
+3) stations(station_id, name)
+4) train_schedule(train_id, station_id, day, time, direction)
+5) trains(train_id, name, direction)
+
+# Bus stops
+6) bus_stops(stop_id, name)
+7) bus_schedule(bus_id, stop_id, day, time, direction)
+8) buses(train_id, name, direction)
+
+# Directions
+9) train_to_bus(station_id, stop_id, walking_dist)
+10) train_to_train(station1_id, station2_id, walking_dist)
+11) bus_to_bus(stop1_id, stop2_id, walking_dist)

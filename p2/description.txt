@@ -1,0 +1,10 @@
+
+Suneil Acharya
+
+		Databases Final Project - P2
+
+For my final project, I plan to build a public transit scheduler application. The user will first input their start and destination locations
+to the application, which will generate a database of train/bus stations within a radius. The user can then select a station and view the schedule
+to plan which stop to get off at, adding this to the schedule. In between stops, the user can walk to a nearby bus station and perform a similar
+action. Note that this application will not find the shortest possible time taken to get to the destination, but is simply just a tool
+for planning a route.
